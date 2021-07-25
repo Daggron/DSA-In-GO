@@ -5,6 +5,12 @@ import (
 	"fmt"
 )
 
+/*
+ * Q. Given an array containing N integers and a number S denoting the target sum.
+ * Find two distinct intgers that can pair up to form the target sum. Let's assume
+ * there will be only one such pair
+ */
+
 // Solution one brute force approach time complexity is O(n^2)s
 // func main() {
 // 	array := [...]int{1,2,3,4,5,6,7}
